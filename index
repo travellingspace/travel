@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <title> Index </title>
+  </head>
+  <body bgcolor=pink>
+    <table border="0" cellpadding="10">
+      <tr>
+        <td>
+          <a href="HOME.html">HOME</a>
+        </td>
+        <td>
+          <img src="tp.jpg" height="650px" width="750px">
+        </td>
+        <td>
+          <h1>"You Decide We plan"</h1>
+        </td>
+      </tr>
+    </table>
+<footer class="mainfooter">
+             <p>copyright &copy; 2016 Pooja Choubey</p>
+          </footer>
+
+  
+
+  </body>
+</html>
